@@ -30,7 +30,7 @@ Front-End Developer
 
 <p align="left"> <a href="https://www.github.com/Erfan-Sahafi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/erfan-sahafi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://instagram.com/erfan_sahafi?igshid=NTc4MTIwNjQ2YQ==" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 <a href="#" target="_blank" rel="noreferrer">
-<img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzhdfEt5I7OuELmXwFzUfd6LGxgqu7ySHS-Pa7L1B-USSfSpy5xhAe_YU66WD42zcZoCc&usqp=CAU)" width="32" height="32" />
+<img src="file:///C:/Users/erfan/Downloads/telegram-svgrepo-com.svg" width="32" height="32" />
 </a>
 </p>
 
